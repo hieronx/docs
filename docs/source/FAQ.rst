@@ -20,7 +20,7 @@ What chains are you going to deploy on and do you have any plans for deployment 
 ----------------
 The protocol is written to work on any EVM (Ethereum Virtual Machine) compatible 
 chain. The first launch will be on the Ethereum Mainnet chain with secondary launches 
-to be on Polygon, Arbitrum, Avalanche, Binance Smart Chain, and Optimism.
+on other EVM compatible layer-twos.
 
 
 When do you expect to deploy to a production chain?
