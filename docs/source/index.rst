@@ -1,16 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome to Ajna's FAW!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Ajna** (/lu'make/) is a is a peer to peer, oracleless, permissionless lending protocol with no governance, 
+accepting both fungible and non fungible tokens as collateral.
+ 
+Check out `ajna.finance <https://ajna.finance/>`_ to find out more
 
 .. note::
-
+   
    This project is under active development.
 
 Contents
@@ -18,5 +15,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   FAQ
