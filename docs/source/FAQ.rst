@@ -3,7 +3,6 @@ Frequently asked questions
 
 What is the Ajna Protocol? 
 ------------
-
 The Ajna protocol is a noncustodial, peer-to-peer, permissionless lending,
 borrowing and trading system implemented for the Ethereum Virtual Machine
 that requires no governance or external price feeds to function.
@@ -61,7 +60,7 @@ No, Ajna has no ability to freeze the funds in the contracts at any time.
 
 Where can I get information about Ajna?
 ----------------
-Check out our website at `ajna.finance <https://ajna.finance/>`_ and join our Discord!
+Check out our website at `ajna.finance <https://ajna.finance/>`_ and join our `Discord <https://discord.gg/pQu52Dtw7r>_`!
 
 Where can I test the application? Will there be an Alpha version of the protocol?
 ----------------
@@ -75,7 +74,7 @@ from the lenders. This makes the protocol not susceptible to outside oracle pric
 
 Where is the Github code?
 ----------------
-When available the code will be available on our github
+When available the code will be available on our `github <https://github.com/ajna-finance>`_
 
 Where are the contract addresses for each chain?
 ----------------
