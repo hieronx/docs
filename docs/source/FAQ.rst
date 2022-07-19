@@ -61,7 +61,7 @@ No, Ajna has no ability to freeze the funds in the contracts at any time.
 
 Where can I get information about Ajna?
 ----------------
-Check out our website at  www.ajna.finance and join our Discord!
+Check out our website at `ajna.finance <https://ajna.finance/>`_ and join our Discord!
 
 Where can I test the application? Will there be an Alpha version of the protocol?
 ----------------
@@ -80,3 +80,11 @@ When available the code will be available on our github
 Where are the contract addresses for each chain?
 ----------------
 When deployed a link will be available on `ajna.finance <https://ajna.finance/>`_
+
+Will the Ajna protocol have a token?
+----------------
+The benefits and drawbacks of a token are being weighed, as of now Ajna does not have plans to release a token.
+
+Will Ajna be conducting a token sale?
+----------------
+There will not be a token sale.
